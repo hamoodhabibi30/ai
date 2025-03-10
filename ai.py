@@ -1,3 +1,4 @@
+import re
 import requests
 import undetected_chromedriver as uc
 from bs4 import BeautifulSoup
