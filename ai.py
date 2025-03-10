@@ -13,7 +13,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Constants
-BOT_TOKEN = '7690528639:AAGon5TLtumASDFhmKsGv_l4Fmwod3E-wgs'
+BOT_TOKEN = '7596532900:AAF6p_RGYFddAwoWdwtBlr0lJwjFT2GhYPA'
 TERABOXFAST_API = 'https://www.teraboxfast.com/p/video-player.html?q='
 
 # Generate a random User-Agent
